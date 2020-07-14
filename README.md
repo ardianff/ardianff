@@ -1,4 +1,3 @@
-### Ardian Ferdy Firmansyah
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 Hi. I’m Ardian. I am an android enthusiast and other mobile programming, I really like the new technology. 🙌 
 Now i'm studying at Dian Nuswantoro University.
