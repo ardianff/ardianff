@@ -2,5 +2,5 @@
 
 Hi. I'm Ardian. I am a fresh graduate with a degree in informatics engineering. I like web programming using CodeIgniter framework as well as native and also I understand android studio with java programming language. My motivation is to learn new knowledge with curiosity and high enthusiasm to gain new knowledge and experience.
 
-For more information about me, check out [ardianff](https://www.linkedin.com/in/ardian-firmansyah).
+For more information about me, check out [ardianff](https://www.linkedin.com/in/ardianffm/).
 
